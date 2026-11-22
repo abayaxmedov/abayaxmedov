@@ -15,12 +15,15 @@
 
 ## ◗ About
 
-I'm a developer from Tashkent working at **INFONEX**. I build the parts of a
-product people rarely see but always feel — APIs, admin panels, Telegram bots,
-and lately AI assistants that take real work off people's hands.
+I'm a **Software Engineer at NQAAE** in Tashkent, focused on Python backends —
+Django, FastAPI, PostgreSQL and Docker — and on AI integrations. I build the
+parts of a product people rarely see but always feel: APIs, admin panels,
+Telegram bots, and AI assistants that take real work off people's hands.
 
 I care about software that ships: clear data models, predictable deploys, and
 code the next developer can read without calling me.
+
+🎓 Tashkent State Transport University · 💼 Open to new opportunities — on-site, hybrid or remote
 
 <br>
 
@@ -80,9 +83,9 @@ everyday business work.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,ts,js,react,vue,nodejs,astro&theme=dark" alt="" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,linux,ts,js&theme=dark" alt="" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,postgres,docker,linux,git,github,vscode&theme=dark" alt="" />
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,astro,flutter,git,github,vscode&theme=dark" alt="" />
 
 </div>
 
