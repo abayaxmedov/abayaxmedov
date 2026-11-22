@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0d0d0d" stop-opacity="0"/><stop offset=".5" stop-color="#9a9a9a"/><stop offset="1" stop-color="#0d0d0d" stop-opacity="0"/></linearGradient></defs>
+  <rect x="100" y="30" width="1000" height="1" fill="url(#g)"/>
+  <text x="600" y="66" text-anchor="middle" style="font:500 13px 'JetBrains Mono',Menlo,monospace;fill:#7a7a7a;letter-spacing:4px">THANKS FOR STOPPING BY</text>
+</svg>
